@@ -1,0 +1,66 @@
+.sobre-la-pelicula {
+    background-image: url("../gif/rueda.gif"); 
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.reparto{
+    background-image: url("../gif/rueda.gif"); 
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.curiosidades {
+    background-image: url("../gif/rueda.gif "); 
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.error{
+    background-image: url("../gif/skinhead\ GIF\ by\ Arrow\ Video.gif");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.index{
+background-image: url("../gif/rueda.gif"); 
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+} 
+.portada figure{
+    display: block;
+    text-align: center;
+    font-size: 1.1rem;
+}
+.portada img {
+    width:  30%;
+    min-width: 350px;
+  
+}
+.portada figcaption{
+    margin-top: 2%;
+    color: red;
+    font-size: 150%;
+    font-weight: bold;
+}
+.contacto {
+  background-image: url("../gif/rueda.gif "); 
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.pandillas {
+  background-image: url("../gif/rueda.gif "); 
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+

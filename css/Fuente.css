@@ -1,0 +1,33 @@
+
+@font-face {
+    font-family: "WarriorsOriginal";
+    src: url("../Fuentes/mersey_cowboy/Mersey\ Cowboy.otf") format("truetype");
+}
+h1 {
+    font-family: "WarriorsOriginal", Arial, sans-serif;
+    color: #b90c0c;
+    font-size: 100px;
+    text-align: center;
+}
+
+.subtitulos{
+    font-family: "WarriorsOriginal", Arial, sans-serif;
+    color: #b90c0c;
+    font-size: 50px;
+    text-align: center;
+     
+}
+.contacto{
+    font-family: "WarriorsOriginal", Arial, sans-serif;
+    color: #b90c0c;
+    font-size: 50px;
+    text-align: center;
+     
+}
+.confirmacion{
+    font-family: "WarriorsOriginal", Arial, sans-serif;
+    color: #b90c0c;
+    font-size: 50px;
+    text-align: center;
+     
+}

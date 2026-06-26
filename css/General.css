@@ -1,0 +1,195 @@
+body {
+    color: white;
+    font-family: Arial;
+    padding: 20px;
+    font-size: 30px;
+    }
+h1 { 
+    color: #b90c0c;
+    text-align: center;
+    font-size: 50px;
+    }
+h2 { 
+    color: #b90c0c;
+    font-size: 20px;
+    }
+
+img:hover {
+    transform: scale(1.05);
+    transition: all 0.3s ease; 
+     }
+
+main {
+     color:white;
+    text-align: center ;
+}
+.Curiosidades {
+    
+    background-color: rgba(3, 3, 3, 0.664); 
+    border: 1px solid #b90c0c; 
+    padding: 15px; 
+    border-radius: 10px; 
+    display: inline-block;
+    width: 28%;
+    vertical-align: top;
+    margin-bottom: 50px;
+    text-align: left;
+    margin-right: 0;
+}
+ a {   
+        color: #b90c0c;
+    }
+.horizontal {
+    
+    background-color: rgba(3, 3, 3, 0.664); 
+    border: 2px solid #b90c0c; 
+    font-weight: bold;
+    padding: 10px; 
+    border-radius:10px; 
+    display: inline-flex;
+    width: 95% ;
+    vertical-align: top;
+    margin-bottom: 50px;
+    text-align: left;
+    padding: 0 20px
+}
+ .home {
+    padding:0;
+    width: 8%;
+    min-width: 60px;
+}
+
+.actores {
+    text-align: center;
+    border: solid 5px #bb0b0b;
+    width: 30%;
+    margin:35px auto;
+    border-radius: 50px 0 50px 0;
+    padding: 20px;
+    font-size: 1.25rem;
+    background-color: #0a010177;
+    color: white;
+    text-shadow: 0 0px 1px #b90c0c;
+    min-width: 310px;
+    font-weight: 600;
+}
+.tarjetas {
+    display:flex;
+    flex-wrap: wrap;
+    gap:10px
+}
+.actores img {
+    width: 220px;        
+    height: 160px;      
+    object-fit: cover;   
+    display: block;      
+    margin: 0 auto;     
+}
+
+
+
+/* Contacto*/
+.transparencia{
+    border: 2px solid #b90c0c;
+    border-radius: 8px; 
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.85);
+}
+
+
+.input {
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.input label {
+    display: block;
+    color: #b90c0c;
+    margin-bottom: 5px;
+}
+
+.input input, .input select, .input textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #333;
+    background-color: #222;
+    color: #fff;
+    border-radius: 5px;
+    box-sizing: border-box; 
+}
+
+
+.botones input[type="submit"] {
+    background-color: #b90c0c;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+}
+/* Confirmacion*/
+.section img {
+    
+    text-align: center;
+    width:  20%;
+    min-width: 350px;
+  
+}
+/*Pandillas*/
+
+.pandilla {
+    text-align: center;
+    border: solid 5px #bb0b0b;
+    width: 30%;
+    margin:35px auto;
+    border-radius: 50px 0 50px 0;
+    padding: 20px;
+    font-size: 1.25rem;
+    background-color: #0a010177;
+    color: white;
+    text-shadow: 0 0px 1px #ff1a1a;
+    min-width: 310px;
+    font-weight: 600;
+}
+.pandilla img{
+    width: 80%;
+}
+/*Curiosidades*/
+.curiosidad {
+    text-align: center;
+    border: solid 5px #bb0b0b;
+    width: 30%;
+    margin:35px auto;
+    border-radius: 50px 0 50px 0;
+    padding: 20px;
+    font-size: 1.25rem;
+    background-color: #0a010177;
+    color: white;
+    text-shadow: 0 0px 1px #ff1a1a;
+    min-width: 310px;
+    font-weight: 600;
+}
+/*error 404*/
+.frase-error p {
+    font-family: "WarriorsOriginal", Arial, sans-serif;
+    font-size: 70px;
+    display: inline-block;
+    text-shadow: 3px 3px 0px #000;
+    color:#bb0b0b ;      
+}
+.error h1 {
+    text-align: center;
+    font-size: 80x;
+    font-family: "WarriorsOriginal", Arial, sans-serif;
+    text-shadow: 3px 3px 0px #000;
+    color:#bb0b0b ;      
+}
+.error a{
+    font-family: "WarriorsOriginal", Arial, sans-serif;
+    color: #b90c0c;
+    font-size: 100px;
+    text-align: center;
+    text-decoration: none;
+   
+}
