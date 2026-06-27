@@ -67,7 +67,7 @@ main {
     margin:35px auto;
     border-radius: 50px 0 50px 0;
     padding: 20px;
-    font-size: 1.25rem;
+    font-size: 20px;
     background-color: #0a010177;
     text-shadow: 0 0px 1px #b90c0c;
     min-width: 310px;
@@ -85,8 +85,30 @@ main {
     display: block;      
     margin: 0 auto;     
 }
-
-
+/* Footer*/
+footer{
+ display: block ;
+    clear: both ;      
+    width: 100% ;
+    text-align: center ; 
+    margin-top: 10px ;   
+    padding: 10px  ;
+}
+.subir {
+    display: block;
+    text-align: center;
+    
+}
+.subir a {
+    display: inline-block;
+    background-color: rgba(3, 3, 3, 0.85); 
+    color: #b90c0c;                        
+    border: 2px solid #b90c0c;      
+    border-radius: 5px;
+    padding: 8px 15px;
+    font-size: 20px;
+    font-weight: bold;
+}
 
 /* Contacto*/
 .transparencia{
@@ -134,7 +156,8 @@ main {
     text-align: center;
     width:  20%;
     min-width: 350px;
-  
+    margin-top: 60px;
+    padding: 8px 15px;
 }
 /*Pandillas*/
 
@@ -145,7 +168,7 @@ main {
     margin:35px auto;
     border-radius: 50px 0 50px 0;
     padding: 20px;
-    font-size: 1.25rem;
+    font-size: 20px;
     background-color: #0a010177;
     color: white;
     text-shadow: 0 0px 1px #ff1a1a;
@@ -163,7 +186,7 @@ main {
     margin:35px auto;
     border-radius: 50px 0 50px 0;
     padding: 20px;
-    font-size: 1.25rem;
+    font-size: 20px;
     background-color: #0a010177;
     color: white;
     text-shadow: 0 0px 1px #ff1a1a;
